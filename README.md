@@ -1,7 +1,7 @@
 
 # 📈 Stock Price Prediction using LSTM
 
-This project demonstrates how to build a **Stock Price Prediction Model** using a **Stacked LSTM (Long Short-Term Memory)** architecture in TensorFlow/Keras. It visualizes training/testing data performance and predicts future stock prices for the next 30 days.
+This project demonstrates how to build a **Stock Price Prediction Model** using a **Stacked LSTM (Long Short-Term Memory)** architecture in TensorFlow. It visualizes training/testing data performance and predicts future stock prices for the next 30 days.
 
 ## 🧰 Tech Stack
 - Python
