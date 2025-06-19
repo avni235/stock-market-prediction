@@ -94,6 +94,7 @@ jupyter notebook file.ipynb
 - You can tweak `time_step`, number of epochs, and model architecture for better results or tuning.
 
 
+
 ## 📍 Directory Structure
 ```
 .
@@ -104,5 +105,13 @@ jupyter notebook file.ipynb
 
 
 
-## 👩‍💻 Author
-Created as part of a deep learning-based time series forecasting project using LSTM networks in TensorFlow/Keras.
+## 👩‍💻 About the Creator
+
+This project was created by **Avneet Kaur**, a passionate developer and student specializing in Web Development, AI/ML, and Software Engineering.
+
+- 💻 Experienced with: React.js, Python, Node.js, and more
+- 🌱 Currently exploring: AI applications in real-world projects
+
+Feel free to connect with me:
+- 🌐 [Portfolio](https://avneet-kaur.framer.website)
+- 💼 [LinkedIn](https://linkedin.com/in/avneet-kaur2)
